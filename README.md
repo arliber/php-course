@@ -27,5 +27,7 @@ TBD
 
 8) Run this: `sudo nano 000-default.conf`
 
-   Remote `html/` from `DocumentRoot` line
+   Remove `html/` from `DocumentRoot` line
+   
+9) Restart Apache: `sudo service apache2 restart`
    
