@@ -30,4 +30,10 @@ TBD
    Remove `html/` from `DocumentRoot` line
    
 9) Restart Apache: `sudo service apache2 restart`
+
+10) Install phpMyAdmin: `sudo apt-get install phpmyadmin`
+
+11) Run: `sudo php5enmod mcrypt`
+
+12) Finally, restart: `sudo service apache2 restart`
    
