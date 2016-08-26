@@ -1,5 +1,5 @@
 # php-course
-TBD
+TODO
 
 #Setup
 
